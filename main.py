@@ -1,5 +1,5 @@
 #TIC TAC TOE HUMAN VS HUMAN
-#BYCHRISTINUS
+#BYLUTHER
 import turtle as t
 from random import random
 
